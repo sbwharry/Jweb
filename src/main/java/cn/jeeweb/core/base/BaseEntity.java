@@ -3,6 +3,7 @@ package cn.jeeweb.core.base;
 import java.io.Serializable;
 
 /**
+ * 
  * 基础实体类
  * 
  * @author 王存见
